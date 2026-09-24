@@ -1,5 +1,3 @@
-### Notes App
-
 # NoteApp - Room Database CRUD
 
 A simple Notes application built using Kotlin, Jetpack Compose, Room Database, ViewModel and Coroutines.
